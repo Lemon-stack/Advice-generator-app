@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://your-solution-url.com)
+- Solution URL:(https://www.frontendmentor.io/solutions/advice-generator-app-77CzuuZWfl)
 - Live Site URL:(https://lemon-stack.github.io/Advice-generator-app/)
 
 ### Built with
