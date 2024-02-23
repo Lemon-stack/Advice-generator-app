@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://lemon-stack.github.io/Advice-generator-app/)
+- Solution URL:(https://your-solution-url.com)
+- Live Site URL:(https://lemon-stack.github.io/Advice-generator-app/)
 
 ### Built with
 
